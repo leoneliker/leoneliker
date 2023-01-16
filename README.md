@@ -11,4 +11,5 @@ I had use tools like angular, eclipse and android studio
 
 ####  Contact:
 
-[![gmail](https://github.com/leoneliker/leoneliker/img/gmail.png)](mailto:ikerite02@gmail.com)
+[![gmail](https://github.com/leoneliker/leoneliker/blob/main/img/gmail.png)](mailto:ikerite02@gmail.com) 
+--> Ikerite02@gmail.com
