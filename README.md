@@ -6,7 +6,8 @@ I'm a new developer eager to learn and work in this world
 
 #### - Currently...
 
-I'm learning java and kotlin, but i knew python, sql, html, css, javascript.
+I'm learning java, kotlin and sql with NetBeans, but i knew python, html, css, javascript.
+
 I had use tools like angular, eclipse and android studio
 
 ####  Contact:
